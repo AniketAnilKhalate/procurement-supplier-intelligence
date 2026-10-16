@@ -311,11 +311,14 @@ This measure is a review indicator, **not a purchase recommendation or final ord
 
 *This repository is a learning portfolio project. All data is synthetic and should not be represented as real business results.*
 
+
 Procurement Overview
 <img width="1210" height="681" alt="image" src="https://github.com/user-attachments/assets/9c7357b5-9a8b-4572-b393-2bf428285f77" />
 
+
 Supplier Performance
 <img width="1213" height="679" alt="image" src="https://github.com/user-attachments/assets/0309e883-159a-4e87-8a1d-5eca6e247a40" />
+
 
 Inventory Monitoring
 <img width="1216" height="683" alt="image" src="https://github.com/user-attachments/assets/ef482d78-de58-491a-bd23-718471ec5b03" />
